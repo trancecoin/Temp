@@ -2,13 +2,6 @@
 
     Result Size: 945 x 796
 
-<!DOCTYPE html>
-
-<html>
-
-<body>
-
-​
 
 <center>Trance Coin Pow / PoS</center><center>
 
@@ -91,12 +84,6 @@ Linux QT- http://trancecoin.club/downloads/trance-qt-linux.tar.gz<br>
 ​
 
 ​
-
-​
-
-</body>
-
-</html>
 
 ​
 
